@@ -1,4 +1,4 @@
-# Name of the project: Arabic Handwritten Character Recognition Using CNN
+# Arabic Handwritten Character Recognition Using Convolutional Neural Networks
 
 ## Project Overview
 TThe project is a web-based application called AraboScripto designed to recognize handwritten Arabic characters. It Utilizes Convolutional Neural Networks (CNNs) to process the character in the image uploaded and output the corresponding name of that character.
